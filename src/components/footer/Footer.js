@@ -8,9 +8,9 @@ const Footer = () => {
   return (
     <footer>
       <div className="hey">
-      <a href="#" className='footer__logo'>Bibek Subedi</a>
+      <a href="/" className='footer__logo'>Bibek Subedi</a>
     <ul className='permalinks'>
-        <li><a href="#">Home</a>
+        <li><a href="/">Home</a>
         <a href="#about">About</a><a href="#experience">Experience</a>
         <a href="#services">Services</a>
         <a href="#portfolio">Portfolio</a>
